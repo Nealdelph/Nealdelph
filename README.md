@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nealdelph
-- 
+- I am a Software QA Engineer
 - 🌱 I’m currently learning cypress and python automation 
