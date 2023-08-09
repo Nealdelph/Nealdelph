@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nealdelph
+- 
+- 🌱 I’m currently learning cypress and python automation 
